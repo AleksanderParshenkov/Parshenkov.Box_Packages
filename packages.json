@@ -1,0 +1,11 @@
+{
+  "packages": [
+    {
+      "description": "Инструменты для Windows (управление окнами, утилиты)",
+      "latestVersion": "0.0.2",
+      "name": "Parshenkov Windows Tools",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/Parshenkov.Box_Packages/releases/download/v0.0.2/Parshenkov.WinTools_Setup_0.0.2.exe",
+      "id": "Parshenkov.WinTools"
+    }
+  ]
+}
