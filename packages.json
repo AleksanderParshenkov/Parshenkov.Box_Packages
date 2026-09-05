@@ -9,9 +9,9 @@
     },
     {
       "description": "Различные инструменты для Revit",
-      "latestVersion": "1.0.15",
+      "latestVersion": "1.0.16",
       "name": "Parshenkov Revit Tools",
-      "downloadUrl": "https://github.com/AleksanderParshenkov/Parshenkov.Box_Packages/releases/download/Parshenkov.RevTools-v1.0.15/Parshenkov.RevTools_Setup_1.0.15.0.exe",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/Parshenkov.Box_Packages/releases/download/Parshenkov.RevTools-v1.0.16/Parshenkov.RevTools_Setup_1.0.16.0.exe",
       "id": "Parshenkov.RevTools"
     },
     {
