@@ -15,9 +15,9 @@
       "id": "Parshenkov.RevTools"
     },
     {
-      "latestVersion": "1.0.10",
+      "latestVersion": "1.0.11",
       "name": "Parshenkov FamBox Tools",
-      "downloadUrl": "https://github.com/AleksanderParshenkov/Parshenkov.Box_Packages/releases/download/Parshenkov.FamBox-v1.0.10/Parshenkov.FamBox_Setup_1.0.10.0.exe",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/Parshenkov.Box_Packages/releases/download/Parshenkov.FamBox-v1.0.11/Parshenkov.FamBox_Setup_1.0.11.0.exe",
       "id": "Parshenkov.FamBox",
       "description": "Инструменты для работы с семействами Revit"
     }
