@@ -9,9 +9,9 @@
     },
     {
       "description": "Инструменты для Revit (лента, команды)",
-      "latestVersion": "1.0.7",
+      "latestVersion": "1.0.8",
       "name": "Parshenkov Revit Tools",
-      "downloadUrl": "https://github.com/AleksanderParshenkov/Parshenkov.Box_Packages/releases/download/Parshenkov.RevTools-v1.0.7/Parshenkov.RevTools_Setup_1.0.7.0.exe",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/Parshenkov.Box_Packages/releases/download/Parshenkov.RevTools-v1.0.8/Parshenkov.RevTools_Setup_1.0.8.0.exe",
       "id": "Parshenkov.RevTools"
     },
     {
